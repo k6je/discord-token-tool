@@ -1,0 +1,17 @@
+{
+  "name": "token-clicker-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atahan.js",
+  "scripts": {
+    "start": "node atahan.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.10.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.5"
+  }
+}
